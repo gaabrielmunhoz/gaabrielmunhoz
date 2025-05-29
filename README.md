@@ -103,7 +103,7 @@ e SQL, com experiência prática em projetos acadêmicos.
 
 <br/>
 <br/>
-<!--
+
 ### 📊 Estatísticas
 
 <p>
@@ -123,4 +123,3 @@ e SQL, com experiência prática em projetos acadêmicos.
   />
 
 </p>
--->
