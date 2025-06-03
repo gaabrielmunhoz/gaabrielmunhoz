@@ -116,10 +116,10 @@ e SQL, com experiência prática em projetos acadêmicos.
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="184" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielmunhoz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="184" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielmunhoz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1" 
+/>
 
 </p>
