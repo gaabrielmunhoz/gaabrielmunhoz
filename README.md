@@ -4,7 +4,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas
 (PUCPR, 2º semestre), com interesse em desenvolvimento
-backend e banco de dados.
+backend.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gaabrielmunhoz/" target="_blank">
