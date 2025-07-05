@@ -16,13 +16,13 @@ backend e banco de dados.
   </a>
 </p>
 
-###  Linguagens e Tecnologias
+###  Linguagens
 
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -31,7 +31,7 @@ backend e banco de dados.
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
@@ -40,7 +40,7 @@ backend e banco de dados.
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
@@ -49,7 +49,7 @@ backend e banco de dados.
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
