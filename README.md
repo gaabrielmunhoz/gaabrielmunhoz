@@ -1,10 +1,6 @@
 # 👨🏻‍💻 Gabriel Munhoz
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
-
-Sou estudante de Análise e Desenvolvimento de Sistemas
-(PUCPR, 2º semestre), com interesse em desenvolvimento
-backend.
+Full Stack Developer Student at PUCPR
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gaabrielmunhoz/" target="_blank">
@@ -16,7 +12,7 @@ backend.
   </a>
 </p>
 
-###  Linguagens
+###  Stacks:
 
 <img 
     align="left" 
@@ -57,7 +53,6 @@ backend.
 <br/>
 <br/>
 
-### 📊 Estatísticas
 <!--
 <p>
   <img 
