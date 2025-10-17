@@ -72,4 +72,4 @@ Full Stack Developer Student at PUCPR
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielmunhoz&theme=tokyonight&layout=compact&custom_title=Stats&langs_count=9&cache_seconds=1" 
 />
 
-</p>2
+</p>
