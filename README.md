@@ -13,7 +13,6 @@ Full Stack Developer Student at PUCPR
 </p>
 
 ###  Stacks:
-
 <img 
     align="left" 
     alt="Python" 
@@ -63,11 +62,14 @@ Full Stack Developer Student at PUCPR
     src="https://github-readme-stats.vercel.app/api?username=gaabrielmunhoz&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
   />
 -->
+
+## GitHub Stats:
+
 <img 
   align="left" 
   alt="GitHub Stats" 
   height="184" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielmunhoz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielmunhoz&theme=tokyonight&layout=compact&custom_title=Stats&langs_count=9&cache_seconds=1" 
 />
 
-</p>
+</p>2
