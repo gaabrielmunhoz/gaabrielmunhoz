@@ -65,11 +65,15 @@ Full Stack Developer Student at PUCPR
 
 ## GitHub Stats:
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="184" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielmunhoz&theme=tokyonight&layout=compact&custom_title=Stats&langs_count=9&cache_seconds=1" 
-/>
+<a href="https://github.com/gaabrielmunhoz/github-stats#gh-dark-mode-only">
+<img src="https://github.com/gaabrielmunhoz/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/gaabrielmunhoz/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/gaabrielmunhoz/github-stats#gh-light-mode-only">
+<img src="https://github.com/gaabrielmunhoz/github-stats/blob/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/gaabrielmunhoz/github-stats/blob/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
+
+</div>
 
 </p>
