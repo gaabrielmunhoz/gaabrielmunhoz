@@ -39,7 +39,7 @@ I enjoy turning ideas into functional projects, exploring new technologies, and 
 <p align="left">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=gaabrielmunhoz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=gaabrielmunhoz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
     alt="Gabriel's GitHub Stats"
   />
   <img
