@@ -37,12 +37,12 @@ I enjoy turning ideas into functional projects, exploring new technologies, and 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats.shion.dev/api?username=gaabrielmunhoz&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="190" src="https://streak-stats.demolab.com/?user=gaabrielmunhoz&theme=radical&hide_border=true" />
+  <img width="44%" src="https://github-readme-stats.shion.dev/api?username=gaabrielmunhoz&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="44%" src="https://streak-stats.demolab.com/?user=gaabrielmunhoz&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gaabrielmunhoz&theme=radical&hide_border=true&layout=compact" />
+  <img width="36%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gaabrielmunhoz&theme=radical&hide_border=true&layout=compact" />
 </div>
 
 ---
