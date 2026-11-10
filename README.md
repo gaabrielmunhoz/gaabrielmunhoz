@@ -8,7 +8,7 @@ I enjoy turning ideas into functional projects, exploring new technologies, and 
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 <p align="left">
   <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -34,24 +34,20 @@ I enjoy turning ideas into functional projects, exploring new technologies, and 
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=gaabrielmunhoz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
-    alt="Gabriel's GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielmunhoz&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
-  />
-</p>
+<div align="center">
+  <img height="190" src="https://github-readme-stats.shion.dev/api?username=gaabrielmunhoz&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="190" src="https://streak-stats.demolab.com/?user=gaabrielmunhoz&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="190" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gaabrielmunhoz&theme=radical&hide_border=true&layout=compact" />
+</div>
 
 ---
 
-## 🌐 Connect with me
+### 🌐 Connect with me
 
 <a href="https://www.linkedin.com/in/gaabrielmunhoz/" target="_blank">
   <img
